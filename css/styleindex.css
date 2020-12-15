@@ -374,13 +374,14 @@ h3 {
 }
 
 .line-button {
-	color: #919191;
+	color: #b5874b;
 	font-size: 16px;
 	font-weight: 400;
 	display: inline-block;
 	position: relative;
 	padding-right: 5px;
-	padding-bottom: 2px
+	padding-bottom: 2px;
+
 }
 
 .line-button::before {
@@ -391,6 +392,7 @@ h3 {
 	height: 1px;
 	bottom: 0;
 	left: 0
+	/*color: #cab38c;*/
 }
 
 .line-button:hover {
@@ -916,7 +918,7 @@ h3 {
 		/*width:100%;*/
 		width:75%;
 		height: auto;
-		
+
 
 	}
 }
@@ -1743,7 +1745,8 @@ h3 {
 
 .footer .footer_top .footer_widget p.footer_text {
 	font-size: 16px;
-	color: #BABABA;
+	/*color: #BABABA;*/
+	color: #029ab1;
 	margin-bottom: 23px;
 	font-weight: 400;
 	line-height: 28px
