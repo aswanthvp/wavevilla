@@ -84,14 +84,16 @@ ul {
 }
 
 li {
-	list-style: none
+	list-style: none;
+
 }
 
 p {
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 28px;
-	color: #4D4D4D;
+	/*color: #4D4D4D;*/
+	color: #029ab1;
 	margin-bottom: 13px;
 	font-family: 'Raleway', sans-serif
 }
@@ -1221,7 +1223,8 @@ h3 {
 
 .offers_area .single_offers ul li {
 	font-size: 16px;
-	color: #4D4D4D;
+	/*color: #4D4D4D;*/
+	color: #029ab1;
 	line-height: 28px;
 	position: relative;
 	z-index: 9;
@@ -1677,7 +1680,7 @@ h3 {
 }
 
 .footer {
-	background: #000
+	background: #fff
 }
 
 .footer .footer_top {
@@ -1708,7 +1711,7 @@ h3 {
 .footer .footer_top .footer_widget .footer_title {
 	font-size: 22px;
 	font-weight: 400;
-	color: #fff;
+	color: #4D4D4D;
 	text-transform: capitalize;
 	margin-bottom: 40px
 }
